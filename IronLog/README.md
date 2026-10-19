@@ -57,7 +57,8 @@ set and back-offs). There is no cloud sync, by design.
 ## Build and install
 
 You need:
-- JDK 21 (Gradle can download it for you through its toolchain resolver);
+- a JDK 17 or newer to run Gradle. The build itself uses JDK 21, which Gradle downloads automatically if you
+  don't have it;
 - the Android SDK with platform 36. Set `ANDROID_HOME`, or create `local.properties` containing
   `sdk.dir=/path/to/sdk`.
 

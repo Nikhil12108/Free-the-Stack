@@ -42,7 +42,9 @@ latest logged bodyweight. Without a bodyweight, those exercises progress by reps
 
 Targets snap to your equipment, which you set up in Settings:
 - the bar weight and the plates you own (in pairs);
-- the step size of your dumbbells, weight stacks, cables and kettlebells.
+- the step size of your dumbbells, weight stacks and cables.
+
+Kettlebells use standard sizes: 4 kg steps, or 9 lb in pounds.
 
 A barbell moves in steps of twice your smallest plate. A step up is only taken if it is not too big a jump for
 that kind of equipment:
