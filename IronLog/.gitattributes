@@ -1,0 +1,8 @@
+# Keep the Gradle scripts runnable everywhere.
+gradlew text eol=lf
+*.bat text eol=crlf
+
+*.jar binary
+*.ttf binary
+*.png binary
+*.webp binary

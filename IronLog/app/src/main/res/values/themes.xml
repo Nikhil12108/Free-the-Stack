@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark window so cold start doesn't flash white before Compose draws (#050505 = the app's void). -->
+    <style name="Theme.IronLog" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/void_black</item>
+        <item name="android:colorBackground">@color/void_black</item>
+    </style>
+</resources>

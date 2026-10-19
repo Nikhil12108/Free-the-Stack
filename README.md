@@ -23,9 +23,11 @@ Software should give people freedom: to choose, to customize, to leave, and to o
 
 ## Projects
 
-The stack starts here. Our first app is coming soon.
+| Project | What it is | Platform | Licence |
+|---|---|---|---|
+| [IronLog](IronLog/) | A private workout tracker with smart progression and training plans | Android | MIT |
 
-As projects are added, each will include its own setup instructions, feature list, status, and license information.
+Each project includes its own setup instructions, feature list, status, and license information.
 
 ## Get involved
 
@@ -39,7 +41,7 @@ You can also help with code, design, testing, documentation, and ideas. Before s
 
 ## Status
 
-This repository is just getting started. No app implementations have been published yet.
+This repository is just getting started. IronLog, the first app, is published and early but working.
 
 ---
 
